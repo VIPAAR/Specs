@@ -1,8 +1,8 @@
 # coding: utf-8
 Pod::Spec.new do |s|
     s.name                      = "seekware"
-    s.version                   = "3.0.b5"
-    s.summary                   = "Seekware"
+    s.version                   = "3.0.5"
+    s.summary                   = "Seekware Beta"
     s.homepage                  = "http://www.thermal.com/"
     s.license                   = "Copyright © 2018 Seek Thermal, Inc. All rights reserved."
     s.author                    = "Seek Thermal"
